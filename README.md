@@ -13,7 +13,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://i.ibb.co/N6chXGnh/jhonatan-typing-transparent.gif"  />
+<img data-importer="image" align="right" height="200" src="https://github.com/user-attachments/assets/de72841e-11ad-4069-a38e-72366a991116"  />
 
 ###
 
