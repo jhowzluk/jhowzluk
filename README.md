@@ -21,7 +21,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a Systems Analysis and Development student at UniSENAI (Joinville, SC) currently working as a Systems Development Intern. I focus on building robust, scalable, and efficient solutions within the backend ecosystem.</p>
+<p data-importer="text" align="left">I'm a Systems Analysis and Development student currently working as a Systems Development Intern. I focus on building robust, scalable, and efficient solutions within the backend ecosystem.</p>
 
 ###
 
