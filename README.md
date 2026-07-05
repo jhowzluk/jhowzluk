@@ -13,7 +13,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="./assets/jhonatan-cartoon.gif"/>
+<img align="right" height="200" src="./assets/jhonatan-cartoon.gif" />
 
 ###
 
