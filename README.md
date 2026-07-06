@@ -59,12 +59,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=jhowzluk&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=jhowzluk.jhowzluk&left_color=forestgreen&right_color=black&left_text=V%20I%20S%20I%20T%20O%20R%20S%20%20%20"  />
 </div>
